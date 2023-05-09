@@ -1,8 +1,11 @@
 
+![Untitled design (6)](https://github.com/saumyasinha31/saumyasinha31/assets/103508561/5439f85d-2527-47e7-ac81-2b4d75a49b3c)
 
-https://user-images.githubusercontent.com/103508561/171289575-445e6918-1f3a-4478-9224-fe7e1f2f1814.mp4
+
 
 <h1 align="center">Hi 👋, I'm Saumya Sinha</h1>
+
+
 <h3 align="center">A passionate developer from India</h3>
 <img align= "right" src ="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width ="300" height="300">
 
