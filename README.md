@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/103508561/171289575-445e6918-1f3a-4478
 
 - 💬 Ask me about **UNITY,VUFORIA,C++,C#,AR CORE.**
 
-- 📫 How to reach me **saumyasinhaindia@gmail.com**
+- 📫 How to reach me **saumyasinha269@gmail.com**
 
 - ⚡ Fun fact **I am an artist before developer **
 
