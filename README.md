@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/103508561/171289575-445e6918-1f3a-4478
 
 - 🔭 I’m currently working on **augmented reality projects**
 
-- 🌱 I’m currently learning **AR/VR, C++.**
+- 🌱 I’m currently learning **AR/VR, C++, Web Development.**
 
 - 💬 Ask me about **UNITY,VUFORIA,C++,C#,AR CORE.**
 
