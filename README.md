@@ -4,6 +4,7 @@ https://user-images.githubusercontent.com/103508561/171289575-445e6918-1f3a-4478
 
 <h1 align="center">Hi 👋, I'm Saumya Sinha</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img align= "right" src ="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width ="300" height="300">
 
 - 🔭 I’m currently working on **augmented reality projects**
 
