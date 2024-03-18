@@ -3,8 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Saumya Sinha</h1>
-
+<h1 align="center">Hi👋, I'm Saumya Sinha</h1>
 
 <h3 align="center">A passionate developer from India</h3>
 <img align= "right" src ="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width ="300" height="300">
@@ -13,11 +12,11 @@
 
 - 🌱 I’m currently learning **AR/VR, C++, Web Development.**
 
-- 💬 Ask me about **UNITY,VUFORIA,C++,AR **
+- 💬 Ask me about **UNITY,VUFORIA,C++,AR**
 
 - 📫 How to reach me **saumyasinha269@gmail.com**
 
-- ⚡ Fun fact **I am an artist before developer **
+- ⚡ Fun fact **I am an artist before developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
