@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AR/VR, C++, Web Development.**
 
-- 💬 Ask me about **UNITY,VUFORIA,C++,C#,AR CORE.**
+- 💬 Ask me about **UNITY,VUFORIA,C++,AR **
 
 - 📫 How to reach me **saumyasinha269@gmail.com**
 
