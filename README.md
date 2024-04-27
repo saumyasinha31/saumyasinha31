@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **augmented reality projects**
 
-- 🌱 I’m currently learning **AR/VR, C++, Web Development.**
+- 🌱 I’m currently learning **Flutter and Web Development.**
 
 - 💬 Ask me about **UNITY,VUFORIA,C++,AR**
 
