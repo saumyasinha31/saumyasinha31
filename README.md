@@ -8,7 +8,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align= "right" src ="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width ="300" height="300">
 
-- 🔭 I’m currently working on **augmented reality projects**
+- 🔭 I’m currently working on **FLUTTER projects**
 
 - 🌱 I’m currently learning **Flutter and Web Development.**
 
