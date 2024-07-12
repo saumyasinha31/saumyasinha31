@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **saumyasinha269@gmail.com**
 
-- ⚡ Fun fact **I draw dreams and code reality.**
+- ⚡ Fun fact **I draw dreams**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
