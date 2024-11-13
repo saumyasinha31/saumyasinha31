@@ -35,3 +35,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=saumyasinha31&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF" alt="saumya stats" />
 
+<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
